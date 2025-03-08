@@ -16,4 +16,6 @@
 
 ## ตัวอย่างการใช้งาน
 
+![image](https://github.com/user-attachments/assets/891342aa-d155-4640-b3f5-8082c4617865)  ![image](https://github.com/user-attachments/assets/47e7173f-940d-410e-bc5d-1e057886022b)
+
 
