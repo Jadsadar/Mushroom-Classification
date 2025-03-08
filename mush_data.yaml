@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/dataset  # Root ของ dataset
+train: train  # โฟลเดอร์ที่มีคลาสอยู่ข้างใน
+val: val  
+test: test  
+
+nc: 2
+names: ["enable_mush", "poison_mush"]
